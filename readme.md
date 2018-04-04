@@ -2,7 +2,7 @@
 
 Description
 ==========
-This is a link shortener based on meteor and react frameworks.
+This is a link shortener based on meteor and react frameworks for my new course.
 
 Author
 ======
