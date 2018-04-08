@@ -34,7 +34,7 @@ export default class Login extends React.Component {
             <input type="password" ref="password" name="password" placeholder="Password"/>
             <button className="button">Login</button>
           </form>        
-          <Link to="/signup">Need an account?</Link>
+          <Link to="/signup">Need account?</Link>
         </div>
       </div>
     );
